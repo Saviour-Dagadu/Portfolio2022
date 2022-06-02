@@ -1907,7 +1907,7 @@ button,
     transform: scaleX(-1);
     color: #7f888f;
     content: '\f002';
-    cursor: default;
+    cursor: pointer;
     display: block;
     font-size: 1.5em;
     height: 2em;
@@ -1917,7 +1917,8 @@ button,
     right: 0;
     text-align: center;
     top: 0;
-    width: 2em; }
+    width: 2em; 
+  background-color: lightblue !important;}
   #search form input[type="text"] {
     padding-right: 2.75em; }
 
