@@ -1518,13 +1518,13 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: rgba(0, 0, 255, 0.1); }
+    background-color: rgba(0, 0, 255); }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: rgba(0, 0, 255, 0.3); }
+    background-color: rgba(0, 0, 255); }
   input[type="submit"].icon:before,
   input[type="reset"].icon:before,
   input[type="button"].icon:before,
@@ -2195,7 +2195,7 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #9fa3a6;
+  color: black;
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
