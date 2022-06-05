@@ -2136,7 +2136,6 @@ button,
     -ms-flex-shrink: 1;
     flex-shrink: 1;
     width: 50%; 
-    color: black;
     font-size: medium;}
   #banner .image {
     -moz-flex-grow: 0;
@@ -2294,7 +2293,7 @@ body, #sidebar, #search{
     transition: background 750ms ease-in-out;
 }
 
-h1.change, h2.change, h3.change, h4.change, h5.change, h6.change, strong.change, b.change, a.icon.change, ul.icon.change  {
+h1.change, h2.change, h3.change, h4.change, h5.change, h6.change, strong.change, b.change, a.icon.change, ul.icon.change {
      color: #efefef;
 }
 
