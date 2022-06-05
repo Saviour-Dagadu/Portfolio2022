@@ -117,9 +117,11 @@ a {
   text-decoration: none; }
   a:hover {
     border-bottom-color: blue;
-    color: blue !important; }
+    color: blue !important; 
+    cursor: pointer;}
     a:hover strong {
-      color: inherit; }
+      color: inherit; 
+      cursor: pointer;}
 
 strong, b {
   color: #3d4449;
@@ -2133,7 +2135,9 @@ button,
     -webkit-flex-shrink: 1;
     -ms-flex-shrink: 1;
     flex-shrink: 1;
-    width: 50%; }
+    width: 50%; 
+    color: black;
+    font-size: medium;}
   #banner .image {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
