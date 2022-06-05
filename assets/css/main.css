@@ -1518,7 +1518,8 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: rgba(0, 0, 255); }
+    background-color: rgba(0, 0, 255);
+    color: #ffffff !important; }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
