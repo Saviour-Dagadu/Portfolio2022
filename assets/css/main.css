@@ -2298,7 +2298,7 @@ h1.change, h2.change, h3.change, h4.change, h5.change, h6.change, strong.change,
 }
 
 #sidebar.change, #search.alt.change {
-    background: #121212;
+    background: #121212 !important;
 }
 
 body.change {
