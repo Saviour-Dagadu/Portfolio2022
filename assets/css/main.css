@@ -2322,7 +2322,7 @@ ul.icons li .icon.change{
 ul.contact a.change {
     color: white;
 }
-p.copyright em.change {
+p.copyright em.change, p.change {
     color: white;
 }
 a.button.change {
